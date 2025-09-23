@@ -201,7 +201,6 @@ main {
     overflow: hidden;
     transition: all 0.5s ease;
     position: relative;
-    group: hover;
 }
 
 .project-card:hover {
