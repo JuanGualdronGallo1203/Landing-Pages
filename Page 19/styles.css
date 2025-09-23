@@ -47,8 +47,6 @@ header {
     font-weight: 700;
     margin-left: 10px;
     background: linear-gradient(45deg, #00d4ff, #0099ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 nav ul {
@@ -124,8 +122,6 @@ nav ul li a:hover:after {
     font-weight: 700;
     line-height: 1.2;
     background: linear-gradient(45deg, #fff, #00d4ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 .hero p {
