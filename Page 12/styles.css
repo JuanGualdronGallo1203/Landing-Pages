@@ -45,8 +45,6 @@ header {
     font-weight: 700;
     margin-left: 10px;
     background: linear-gradient(45deg, #6a11cb, #2575fc);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 nav ul {
